@@ -729,5 +729,6 @@ seo:
   metaDescription: Empowering you with tech solutions.
   socialImage: /images/main-hero.jpg
   type: Seo
+  metaTags: []
 type: PageLayout
 ---
