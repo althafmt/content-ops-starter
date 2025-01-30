@@ -745,7 +745,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Althaf Tech
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Empowering you with tech solutions.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
