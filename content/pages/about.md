@@ -149,7 +149,7 @@ sections:
         elementId: ''
     badge:
       type: Badge
-      label: This is a badge
+      label: "This\_ is a badge"
       color: text-primary
       styles:
         self:
