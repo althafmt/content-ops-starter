@@ -41,7 +41,7 @@
         {
             "type": "Link",
             "label": "Contact",
-            "altText": "Careers page",
+            "altText": "",
             "url": "/contact",
             "icon": "arrowRight",
             "iconPosition": "right",
