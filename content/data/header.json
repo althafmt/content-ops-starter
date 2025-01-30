@@ -40,7 +40,7 @@
         },
         {
             "type": "Link",
-            "label": "About Us",
+            "label": "Contact",
             "altText": "Careers page",
             "url": "/contact",
             "icon": "arrowRight",
